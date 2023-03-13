@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**robotnikhub/robotnikhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my profile! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social medias:
+**Discord** leniu#9288
+
+**Youtube** [**channel**](https://www.youtube.com/channel/UCuA-7lIt0vUSn9xxG4Srmog)
+
+**Steam** [**Profile**](https://steamcommunity.com/id/zmudax/)
+
+## 🚀 About Me
+Learning python with the help of [**best tutor**](https://github.com/JokerTux)
+
