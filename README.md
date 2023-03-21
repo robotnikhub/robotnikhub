@@ -3,7 +3,7 @@
 
 
 ## Social medias:
-**Discord** leniu#9288
+**Discord** zumda#9288
 
 **Youtube** [**channel**](https://www.youtube.com/channel/UCuA-7lIt0vUSn9xxG4Srmog)
 
