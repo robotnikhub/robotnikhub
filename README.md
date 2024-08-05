@@ -3,7 +3,7 @@
 
 
 ## Social medias:
-**Discord** jazmuda
+**Discord** gawryle
 
 **Youtube** [**channel**](https://www.youtube.com/channel/UCuA-7lIt0vUSn9xxG4Srmog)
 
